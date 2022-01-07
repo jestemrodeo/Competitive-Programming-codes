@@ -1,0 +1,38 @@
+***POSICION MAS 3!!***
+
+1)no lo se
+
+2)bfs
+
+3)dfs
+
+4)dfs/bfs nomeacuerdo
+
+5)simulacion
+
+6) who knows
+
+7)bfs
+
+8)vos sabras
+
+9) es un arbol.
+
+10) dimitri sabra
+
+11) nadie lo sabe
+
+12) Dijkstra
+
+13) just do it
+
+14) just do it v2
+
+15) Floyd Warshall
+
+16) Dinamica
+
+17) Dinamica, recursivo
+
+18) who knows
+
